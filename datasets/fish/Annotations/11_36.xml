@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>11_36.jpg</filename>
+	<path>E:\fish\images\train\11_36.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1536</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>666</xmin>
+			<ymin>148</ymin>
+			<xmax>1779</xmax>
+			<ymax>815</ymax>
+		</bndbox>
+	</object>
+</annotation>

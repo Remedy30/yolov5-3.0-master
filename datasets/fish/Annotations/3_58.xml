@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>3_58.jpg</filename>
+	<path>E:\fish\images\train\3_58.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1536</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>212</xmin>
+			<ymin>621</ymin>
+			<xmax>329</xmax>
+			<ymax>802</ymax>
+		</bndbox>
+	</object>
+</annotation>
